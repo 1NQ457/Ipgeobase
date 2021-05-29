@@ -1,3 +1,5 @@
+[![Ruby](https://github.com/1NQ457/Ipgeobase/actions/workflows/main.yml/badge.svg)](https://github.com/1NQ457/Ipgeobase/actions/workflows/main.yml)
+
 # Ipgeobase
 
 ## Installation
